@@ -10,6 +10,6 @@ Este repositório armazena o progresso da disciplina de Programação Orientada 
 * **Tratamento de Exceções.**
 
 ## 💻 Tecnologias
-* Java JDK 17+
-* IDE (IntelliJ IDEA / Eclipse / VS Code)
+* Java JDK 21
+* IDE IntelliJ IDEA / VS Code)
 * Git & GitHub
